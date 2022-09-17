@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    text-align: center;
+    margin-top: 8rem;
+}
+h1{
+    color: red;
+    transition: color 0.5s;
+    font-size: 3rem;
+}
+h1:hover{
+    color: chartreuse;
+    cursor: pointer;
+
+}
+body {
+    background-color:cadetblue;
+    font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+        "Lucida Sans", Arial, sans-serif;
+}
+#text{
+    padding: 1rem 1rem;
+    cursor: pointer;
+    border: none;
+}
+
+   
